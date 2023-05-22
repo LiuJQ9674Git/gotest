@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gotest&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../go_workspace/src/.DS_Store" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
